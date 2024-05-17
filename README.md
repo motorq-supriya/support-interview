@@ -12,4 +12,4 @@ This application will connect to a yugabyte database instance.
 * Connect to the database.
 * Resolve any issues that arises.
 * Complete the ***transferMoneyBetweenAccounts*** function
-* * It will deduct money from one account and deposit into another.
+  * It will deduct money from one account and deposit into another.
